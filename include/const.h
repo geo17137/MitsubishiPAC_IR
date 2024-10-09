@@ -2,7 +2,7 @@
 #define CONST_H
 #include "../secret/password.h"
 
-#define version "2024.K09.20"
+#define version "2024.09.20"
 
 const char *mqttServer = MQTT_SERVER;
 const int  mqttPort = MQTT_PORT;
