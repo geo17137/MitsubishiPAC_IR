@@ -3,7 +3,15 @@
 #include "../secret/password.h"
 
 #define version "2024.09.20"
-
+/*
+#define SSID     "xxxxxx"
+#define PASSWORD    "xxxxxxx"
+#define MQTT_SERVER "xxx.xxx.xxx.xxx"
+#define MQTT_PORT xxxx
+#define MQTT_USER "xxxxxxx"
+#define MQTT_PASSWORD "xxxxxx"
+#define HOSTNAME "xxxxx"
+*/
 const char *mqttServer = MQTT_SERVER;
 const int  mqttPort = MQTT_PORT;
 const char *mqttUser = MQTT_USER;
